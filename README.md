@@ -1,5 +1,5 @@
-# Netflix GPT
 
+Tailored Stream
 - Create React App
 - Configured TailwindCSS 
 - Header
